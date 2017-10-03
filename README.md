@@ -1,3 +1,2 @@
-# Deep-Learning-optimization-comparison
-Comparison of SGD，Adagrad，Adadelta，Adam，Adamax，Nadam
+##Comparison of SGD，Adagrad，Adadelta，Adam，Adamax，Nadam
 Reference: http://ruder.io/optimizing-gradient-descent/
